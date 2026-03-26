@@ -1,0 +1,9 @@
+{
+  "name": "ansi-regex-example",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Example project using ansi-regex 6.2.2",
+  "dependencies": {
+    "ansi-regex": "6.2.2"
+  }
+}
